@@ -5,7 +5,7 @@
 - 🖥️ Ampliando o conhecimento estudando HTML-CSS-JS
 - 🚀 Cursando Teste de Software Web
 
-<h1>Tecnologias de uso frequente...
+<h2>Tecnologias de uso frequente...</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
