@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Sou Formado em Técnico de Informática
 - 📚 Cursando Análise e Desenvolvimento de Sistema.
-- 🖥️ Pós Graduação Engenharia de Software com Ênfase em Qualidade e Teste.
+- 🖥️ Cursando Pós Graduação Engenharia de Software com Ênfase em Qualidade e Teste.
 - 🚀 Ampliando o conhecimento em front end e se desenvolvendo em teste de software.
 
 <h3>Tecnologias de uso frequente...</h3>
