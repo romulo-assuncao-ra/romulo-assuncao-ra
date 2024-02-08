@@ -4,6 +4,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistema.
 - 🖥️ Cursando Pós Graduação Engenharia de Software com Ênfase em Qualidade e Teste.
 - 🚀 Ampliando o conhecimento em front end e se desenvolvendo em teste de software.
+- 👨‍💻 Atualmente estou atuando como analista de teste de software - QA na Compass UOL.
 
 <h3>Tecnologias de uso frequente...</h3>
 <div style="display: inline_block"><br>
