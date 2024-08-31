@@ -1,9 +1,10 @@
 ## Olá, Sou Rômulo Assunção Corrêa !!!
 
-- 🧑‍💻 Sou Formado em Técnico de Informática
-- 📚 Cursando Análise e Desenvolvimento de Sistema.
-- 🖥️ Cursando Pós Graduação Engenharia de Software com Ênfase em Qualidade e Teste.
-- 🚀 Ampliando o conhecimento em front end e se desenvolvendo em teste de software.
+- 🧑‍💻 Sou Formado em:
+-     🖥️ Técnico de Informática
+-     📚 Análise e Desenvolvimento de Sistema.
+-     👨‍💻 Pós Graduado em Engenharia de Software com Ênfase em Qualidade e Teste.
+- 🚀 Ampliando o conhecimento automação de teste.
 - 👨‍💻 Atualmente estou atuando como analista de teste de software - QA na Compass UOL.
 
 <h3>Tecnologias de uso frequente...</h3>
