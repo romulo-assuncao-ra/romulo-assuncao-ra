@@ -4,7 +4,7 @@
 - 🖥️ Técnico de Informática
 - 📚 Análise e Desenvolvimento de Sistema.
 - 👨‍💻 Pós Graduado em Engenharia de Software com Ênfase em Qualidade e Teste.
-- 🚀 Ampliando em desenvolvimento WEB e iniciando os estudos em automação de teste.
+- 🚀 Tenho ampliado meus conhecimentos em desenvolvimento web para tornar o processo de aprendizado em automação de testes mais fluido e eficiente..
 - 👨‍💻 Atualmente estou atuando como analista de teste de software - QA na Compass UOL.
 
 <h3>Tecnologias de uso frequente...</h3>
