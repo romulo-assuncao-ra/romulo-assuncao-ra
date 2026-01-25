@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rômulo Assunção
 
-#**`Analista de Testes | QA | Qualidade de Software`**
+#Analista de Testes | QA | Qualidade de Software
 
 👋 Sobre mim
 
