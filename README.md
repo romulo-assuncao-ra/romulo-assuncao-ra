@@ -2,7 +2,7 @@
 
 **`Analista de Testes | QA | Qualidade de Software`**
 
-👋 Sobre mim
+👋 **Sobre mim**
 
 Sou Analista de Testes (QA) com experiência em Qualidade de Software, atuando desde a análise de requisitos até a definição de critérios de aceitação, execução de testes funcionais, testes de regressão e validação de sistemas.
 
@@ -12,67 +12,40 @@ Tenho forte foco em prevenção de falhas, documentação de regras de negócio 
 🎓 Pós-graduação em Engenharia de Software com ênfase em Testes e Qualidade<br>
 🎓 Cursando Pós-graduação IA & Automação
 
-🧠 Skills
+🧠 **Skills**
 
-Qualidade & Testes
+**Qualidade & Testes**
 
 • Testes funcionais, exploratórios e regressão<br>
 • Escrita de cenários em Gherkin (BDD)<br>
 • Análise de requisitos e critérios de aceitação<br>
 • Validação de regras de negócio<br>
 
-Tecnologias & Ferramentas
+**Tecnologias & Ferramentas**
 
 • Testes de API (REST)<br>
 • Testes Web e Mobile<br>
 • Documentação funcional e técnica<br>
 
-Metodologias & Soft Skills
+**Metodologias & Soft Skills**
 
 • Scrum e Kanban<br>
 • Comunicação clara com QA, Dev e Produto<br>
 • Visão crítica, organização e proatividade<br>
 
-📂 Projetos
+💼 **Experiência — Analista de Teste | Compass**
 
-🔹 Plataforma Digital – Web & Mobile
+Atuação focada em qualidade de software em ambientes ágeis, com forte integração ao time de produto e desenvolvimento.
 
-Atuação em sistema com regras de negócio complexas
+Principais atividades:
 
-• Análise e refinamento de requisitos<br>
-• Criação de critérios de aceitação<br>
-• Execução de testes funcionais e regressão<br>
-• Apoio contínuo ao time durante o desenvolvimento<br>
-
-✅ Resultados: menos falhas em produção e maior previsibilidade nas entregas
-
-🔹 Validação de APIs e Fluxos Críticos
-
-Sistema com integrações e fluxos sensíveis
-
-• Testes de APIs (payloads, regras e respostas)<br>
-• Cenários positivos e negativos<br>
-• Documentação de comportamentos esperados<br>
-
-✅ Resultados: aumento da confiabilidade das integrações
-
-
-🧪 Cases de Qualidade<br>
-
-✔️ Prevenção de Erros em Produção<br>
-Problema: requisitos ambíguos e falhas recorrentes<br>
-Ação:<br>
-• Revisão de requisitos com o time<br>
-• Criação de critérios claros<br>
-• Ampliação da cobertura de <br>
-Resultado: redução de retrabalho e falhas em produção
-
-✔️ Padronização de Testes<br>
-Problema: testes inconsistentes e difícil manutenção<br>
-Ação:<br>
-• Padronização de cenários em Gherkin<br>
-• Organização por contexto e regra de negócio<br>
-Resultado: testes mais legíveis e sustentáveis
+• Análise e entendimento de requisitos funcionais e regras de negócio <br>
+• Definição e validação de critérios de aceitação <br>
+• Criação e manutenção de cenários de teste utilizando BDD (Gherkin) <br>
+• Execução de testes funcionais, testes de regressão e testes exploratórios <br>
+• Apoio à melhoria contínua dos processos de qualidade <br>
+• Colaboração ativa com POs, desenvolvedores e stakeholders <br>
+• Garantia da qualidade desde as fases iniciais do desenvolvimento (shift-left testing) <br>
 
 ---
 
